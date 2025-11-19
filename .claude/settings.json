@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "description": "Crush MCP Server - Project-specific settings for MCP development with multi-model orchestration",
+  "skills": {
+    "enabled": true,
+    "location": ".claude/skills",
+    "total_skills": 22,
+    "description": "Auto-loaded expertise for MCP, Go, TypeScript, Testing, API design"
+  },
+  "mcp": {
+    "description": "MCP servers available for this project",
+    "servers": [
+      {
+        "name": "context7",
+        "description": "Library documentation lookup for MCP SDK and dependencies",
+        "enabled": true
+      },
+      {
+        "name": "sequential-thinking",
+        "description": "Extended reasoning for complex MCP design decisions",
+        "enabled": true
+      },
+      {
+        "name": "linear",
+        "description": "Project management integration (CET-266, CET-265, CET-271, CET-269)",
+        "enabled": true
+      }
+    ]
+  },
+  "project_context": {
+    "name": "crush-mcp-server",
+    "version": "0.1.0",
+    "repository": "https://github.com/manutej/crush-mcp-server",
+    "tech_stack": ["TypeScript", "Node.js", "MCP SDK 0.5.0", "Vitest", "Crush CLI"],
+    "execution_strategies": ["fast", "balanced", "quality", "cost-optimized"],
+    "linear_project": "https://linear.app/ceti-luxor/project/crush-mcp-server-fabcd9722fbc"
+  },
+  "development": {
+    "philosophy": "Test-Driven Development (TDD)",
+    "code_style": "TypeScript strict mode, ES2022, Node16 modules",
+    "documentation": "Comprehensive JSDoc, README, PROGRESS.md",
+    "testing": "12/12 tests passing, aim for >80% coverage"
+  },
+  "toolkit": {
+    "skills": 22,
+    "agents": 11,
+    "commands": 14,
+    "workflows": 3,
+    "total_resources": 50
+  }
+}

@@ -10,7 +10,7 @@ A Model Context Protocol (MCP) server that lets Claude Code orchestrate multiple
 
 - ✅ Node.js >= 18
 - ✅ Claude Code installed
-- ✅ Crush CLI installed (`brew install crush` or from https://github.com/crush/crush)
+- ✅ Crush CLI installed (`brew install charmbracelet/tap/crush` or from https://github.com/charmbracelet/crush)
 - ⚠️  API keys configured in Crush (for real execution - optional for testing)
 
 ## Installation (2 minutes)

@@ -1,0 +1,24 @@
+{
+  "title": "XAI Grok API Mastery",
+  "name": "skill",
+  "file": "skill.md",
+  "file_size": 16839,
+  "line_count": 455,
+  "word_count": 2077,
+  "section_count": 62,
+  "code_blocks": 9,
+  "links": 0,
+  "images": 0,
+  "has_math": true,
+  "modified": "2025-11-04T04:31:19.710768",
+  "created": "2025-11-04T04:31:19.721998",
+  "summary": "# XAI Grok API Mastery  Complete expertise in XAI's Grok API for building production-ready AI applications with language models, agentic tools, RAG, and multimodal capabilities.  ## 🎯 Auto-Activation",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/skill-light.pdf",
+    "dark": null
+  }
+}

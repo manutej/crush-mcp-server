@@ -331,7 +331,7 @@ MIT
 ## Links
 
 - **Linear Project**: https://linear.app/ceti-luxor/project/crush-mcp-server-fabcd9722fbc
-- **Crush CLI**: https://github.com/crush/crush
+- **Crush CLI**: https://github.com/charmbracelet/crush
 - **MCP Specification**: https://modelcontextprotocol.io
 
 ---
